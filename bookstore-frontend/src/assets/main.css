@@ -1,0 +1,75 @@
+* {
+    color: black;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html, .l, .r, body{
+    background-color: rgb(231, 232, 233);
+    width: 100%;
+    scroll-behavior: smooth;
+
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-orage {
+    background-color: rgb(246, 220, 174);
+}
+
+.radius {
+    border-radius:6px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.can_deu {
+    text-align: justify;
+    padding-right: 12px;
+}
+
+.page {
+    width: 100%;
+    display: grid;
+    grid-template: "l article r" auto / 10% 80% 10%;
+}
+
+.article {
+    width: 100%;
+    grid-area: article;
+}
+
+.cach {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text-justify {
+    text-align: justify;
+    font-size: 20px;
+}
+
+aside.l {
+    grid-area: l;
+}
+
+aside.r {
+    grid-area: r;
+}
+.display-flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+} 
+/* main */
+
+
+/* quảng cáo */
+
+
