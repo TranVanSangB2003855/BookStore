@@ -1,0 +1,111 @@
+[
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584dda"
+    },
+    "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+    "price": 95000,
+    "category": [
+      "Tiểu thuyết",
+      "Ngôn tình",
+      "Truyện Ngắn"
+    ],
+    "image": [
+      "https://cdn0.fahasa.com/media/catalog/product/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_2199.jpg"
+    ],
+    "publishing_house": "Trẻ",
+    "publishing_year": 2018,
+    "supplier": "Trẻ",
+    "num_pages": 318,
+    "author": {
+      "$oid": "6360a5bc86079216aa584dd4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584ddb"
+    },
+    "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+    "price": 95000,
+    "category": [
+      "Tiểu thuyết",
+      "Ngôn tình",
+      "Truyện Ngắn"
+    ],
+    "image": [
+      "https://cdn0.fahasa.com/media/catalog/product/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_2199.jpg"
+    ],
+    "publishing_house": "Trẻ",
+    "publishing_year": 2018,
+    "supplier": "Trẻ",
+    "num_pages": 318,
+    "author": {
+      "$oid": "6360a5bc86079216aa584dd4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584ddc"
+    },
+    "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+    "price": 95000,
+    "category": [
+      "Tiểu thuyết",
+      "Ngôn tình",
+      "Truyện Ngắn"
+    ],
+    "image": [
+      "https://cdn0.fahasa.com/media/catalog/product/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_2199.jpg"
+    ],
+    "publishing_house": "Trẻ",
+    "publishing_year": 2018,
+    "supplier": "Trẻ",
+    "num_pages": 318,
+    "author": {
+      "$oid": "6360a5bc86079216aa584dd4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584ddd"
+    },
+    "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+    "price": 95000,
+    "category": [
+      "Tiểu thuyết",
+      "Ngôn tình",
+      "Truyện Ngắn"
+    ],
+    "image": [
+      "https://cdn0.fahasa.com/media/catalog/product/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_2199.jpg"
+    ],
+    "publishing_house": "Trẻ",
+    "publishing_year": 2018,
+    "supplier": "Trẻ",
+    "num_pages": 318,
+    "author": {
+      "$oid": "6360a5bc86079216aa584dd1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584dde"
+    },
+    "title": "Elon Musk (Tái Bản 2022)",
+    "price": 240000,
+    "category": [
+      "Tiểu sử hồi ký",
+      "Câu chuyện cuộc đời"
+    ],
+    "image": [
+      "https://cdn0.fahasa.com/media/catalog/product/8/9/8935251419016.jpg"
+    ],
+    "publishing_house": "Thế Giới",
+    "publishing_year": 2022,
+    "supplier": "Alpha Books",
+    "num_pages": 492,
+    "author": {
+      "$oid": "6360a5bc86079216aa584dd1"
+    }
+  }
+]

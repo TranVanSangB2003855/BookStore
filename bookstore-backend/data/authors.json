@@ -1,0 +1,53 @@
+[
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584dd1"
+    },
+    "full_name": "Nguyễn Nhật Ánh 1",
+    "year": 1985,
+    "books": [
+      {
+        "$oid": "6360a5bc86079216aa584ddd"
+      },
+      {
+        "$oid": "6360a5bc86079216aa584dde"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584dd2"
+    },
+    "full_name": "Nguyễn Nhật Ánh 2",
+    "year": 1985,
+    "books": [
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584dd3"
+    },
+    "full_name": "Nguyễn Nhật Ánh 3",
+    "year": 1985,
+    "books": [
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6360a5bc86079216aa584dd4"
+    },
+    "full_name": "Ashlee Vance",
+    "year": 1970,
+    "books": [
+      {
+        "$oid": "6360a5bc86079216aa584dda"
+      },
+      {
+        "$oid": "6360a5bc86079216aa584ddb"
+      },
+      {
+        "$oid": "6360a5bc86079216aa584ddc"
+      }
+    ]
+  }
+]
